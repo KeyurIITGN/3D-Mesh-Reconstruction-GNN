@@ -1,2 +1,2 @@
 # 3D-Mesh-Reconstruction-GNN
-3D Mesh reconstruction using Graph Neural Networks
+3D Mesh completion using Graph Neural Networks
